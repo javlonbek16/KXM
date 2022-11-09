@@ -11685,15 +11685,19 @@ html {
 }
 
 .submit-btn {
- background-color: #06357a;
- text-decoration: none;
- text-align: center;
- color: #fff;
- padding: 12px 14px;
+  background-color: #06357a;
+  text-decoration: none;
+  text-align: center;
+  color: #fff;
+  padding: 12px 14px;
 }
 
 .submit-btn:hover {
   background-color: #fff;
   color: #06357a;
   border: 1px solid black;
+}
+
+.image {
+  padding-bottom: -500px;
 }
