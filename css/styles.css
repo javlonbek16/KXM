@@ -11701,3 +11701,8 @@ html {
 .image {
   padding-bottom: -500px;
 }
+
+.cake-img {
+  width: 300px;
+  height: 300px;
+}
